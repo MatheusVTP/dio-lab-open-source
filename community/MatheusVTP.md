@@ -23,3 +23,4 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusVTP&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MatheusVTP/dio-lab-open-source)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusVTP&repo=Game&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MatheusVTP/Game)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusVTP&repo=html5&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MatheusVTP/html5)
